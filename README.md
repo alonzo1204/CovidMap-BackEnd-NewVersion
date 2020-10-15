@@ -1,4 +1,4 @@
-## Created by Ceviche S.A.C
+## Created by SCHEMA
 
 ## Project setup
 ```
